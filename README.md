@@ -51,3 +51,16 @@ The aftereffect of absent of leadership gradually slowed my group down and I rea
 
 ![Image of evidence of leadership 2](/Images/Leadership_2.PNG){:height="80%" width="80%" .center-image }
 * * *
+### Teamwork
+From Sprint 1 to 3, I was not participate with other members because I thought all I need to do was working on my part of project and wait for other members’ completion. I only focused on my work and its due date, and did not cared much about work of others.
+
+But when we reached Sprint 4, I noticed that it was not agile way of working. If one part of work fails to meet the criteria on time, the whole process delays because of it. The member who did not finish in time will have to work on other issue, which will make both works hard to finish on time, results on not finishing next Sprint as well.
+
+This actually happened to all the members of the group which led us to not finish both Sprint 2, 3, and 4. I had a hard time to finish all my delayed issues while finishing newly assigned work.
+
+From that experience, I learned that as a team member, I need to help other members as well to improve the work efficiency of overall group.
+
+![Image of evidence of teamwork 1](/Images/Teamwork_1.PNG){:height="80%" width="80%" .center-image }
+![Image of evidence of teamwork 1](/Images/Teamwork_2.PNG){:height="80%" width="80%" .center-image }
+
+Other member may felt same way because from Sprint 5, everyone worked on their issue and helping other members through improved communication which results in finishing Sprint 5 and 6 successfully, finishing on time.
