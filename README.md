@@ -9,5 +9,6 @@ I realised that it was not efficient communication through Sprint 2 and 3 becaus
 
 I am the one of the member who struggled with heavy workload therefore I have to admit that I slacked a bit during Sprint 1 and 2. I tried to finish mine in time and nearly finished, but still not enough to say I completed the tasks.
 
-![Image of evidence of lacking communication](/Images/Communication_1.PNG)]
-![Image of evidence of lacking communication](/Images/Communication_2.PNG)]
+![Image of evidence of lacking communication](/Images/Communication_1.PNG)
+
+![Image of evidence of lacking communication](/Images/Communication_2.PNG)
