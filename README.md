@@ -1,5 +1,4 @@
-# Portfolio -IN602-
-## (Written by Joon ho Lee)
+# Portfolio -IN602- (Written by Joon ho Lee)
 
 ## Professional proficiency
 
