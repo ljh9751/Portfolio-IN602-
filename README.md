@@ -50,6 +50,8 @@ The aftereffect of absent of leadership gradually slowed my group down and I rea
 ![Image of evidence of leadership 1](/Images/Leadership_1.PNG){:height="80%" width="80%" .center-image }
 
 ![Image of evidence of leadership 2](/Images/Leadership_2.PNG){:height="80%" width="80%" .center-image }
+
+Images above shows the improvement of my leadership, which needs more improvement.
 * * *
 ### Teamwork
 From Sprint 1 to 3, I was not participate with other members because I thought all I need to do was working on my part of project and wait for other members’ completion. I only focused on my work and its due date, and did not cared much about work of others.
@@ -60,7 +62,23 @@ This actually happened to all the members of the group which led us to not finis
 
 From that experience, I learned that as a team member, I need to help other members as well to improve the work efficiency of overall group.
 
+I presents small portion of group chat from facebook chat dedicated to IN602.
+
 ![Image of evidence of teamwork 1](/Images/Teamwork_1.PNG){:height="80%" width="80%" .center-image }
 ![Image of evidence of teamwork 1](/Images/Teamwork_2.PNG){:height="80%" width="80%" .center-image }
 
 Other member may felt same way because from Sprint 5, everyone worked on their issue and helping other members through improved communication which results in finishing Sprint 5 and 6 successfully, finishing on time.
+* * *
+### Time management
+
+Time management was the largest problem for our group. We could not finish the works in time and it made us not finishing the Sprints in time.
+
+On my defence, I only did not finish my work on Sprint 1 and finished every work from then.
+But it was not efficient because I finished my works on deadline and did not proof read codes well as reviewing them with other members. It looked good as I finished the works on time but it was actually wasting times to improve myself and my works.
+
+I learned that finishing the works on time is not important, in terms of time management. Time management that I know now, is using the given time in most efficiently as possible, without wasting any of it. I acknowledged during after Sprint 4 and tried to be at my best on time managing.
+
+These images as well as images for communication shows my improvement on time managing.
+
+![Image of evidence of time management 1](/Images/TimeManagement_1.PNG){:height="80%" width="80%" .center-image }
+![Image of evidence of time management 1](/Images/TimeManagement_2.PNG){:height="80%" width="80%" .center-image }
