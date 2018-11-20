@@ -95,4 +95,39 @@ What I learned about this experience is that motivating others is not all about 
 I learned that to motivate others in right way, the balance between those two factors above is the most important. I failed to motivate myself and others during most of the time in this project but near the end, every member motivated each other well enough to finish the basic functions for whole project in short amount of time.
 
 ![Image of evidence of Motivation_1](/Images/Motivation_1.PNG){:height="80%" width="80%" .center-image }
+* * *
 
+## Technical proficiency
+
+
+During class, I learned about Laravel and how to use them to create, display and delete tasks, since then, it was hard to cope with Laravel because it was fairly new technology to learn.
+
+I tried to understand Laravel and use it wisely but I realised that I assumed this simple program to hard, which made my approach harder. I overcomplicated my work and tried to something that was not necessary for the project.
+
+It slowed my progress and realise that Laravel was not that complicate, after missed few deadlines.
+
+However, after I realised that overworking made my work flow worse, I tried to working on the project more efficiently by not caring about facts that I do not need to understand. It was successful because it was actually easy to work with Laravel without deep understanding of it. It was meant to avoid learning to deep about it, since it is a template for every user to use easily.
+
+I googled about Laravel to add edit action button to my working page, addPerson.blade.php, and adopt the information and codes without any problem.
+
+![Image of evidence of technical 1](/Images/Technical_1.PNG){:height="80%" width="80%" .center-image }
+
+![Image of evidence of technical 2](/Images/Technical_2.PNG){:height="80%" width="80%" .center-image }
+
+I tweaked the codes a bit to make the edit button. Also I made the edit button working by adding controller and edit form page. After I successfully created edit button, it was used as a template to other pages’ edit buttons which made all the works easier.
+
+![Image of evidence of technical 3](/Images/Technical_3.PNG){:height="80%" width="80%" .center-image }
+
+![Image of evidence of technical 4](/Images/Technical_4.PNG){:height="80%" width="80%" .center-image }
+
+![Image of evidence of technical 5](/Images/Technical_5.PNG){:height="80%" width="80%" .center-image }
+
+![Image of evidence of technical 6](/Images/Technical_6.PNG){:height="80%" width="80%" .center-image }
+
+![Image of evidence of technical 7](/Images/Technical_7.PNG){:height="80%" width="80%" .center-image }
+
+![Image of evidence of technical 8](/Images/Technical_8.PNG){:height="80%" width="80%" .center-image }
+
+I also used some JavaScript to make a semester table contents that would show on the front page. It was not easy to understand the concept of it but I read about it on google and tried to applying it to my work and it worked fine as well. I also added small Javascript to identify current week and it worked well too.
+
+![Image of evidence of technical 9](/Images/Technical_1.PNG){:height="80%" width="80%" .center-image }
