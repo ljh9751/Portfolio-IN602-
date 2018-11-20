@@ -9,6 +9,19 @@ I realised that it was not efficient communication through Sprint 2 and 3 becaus
 
 I am the one of the member who struggled with heavy workload therefore I have to admit that I slacked a bit during Sprint 1 and 2. I tried to finish mine in time and nearly finished, but still not enough to say I completed the tasks.
 
+Image below shows that strugling before I acknowledge the importance of communication, by delayed works.
 ![Image of evidence of lacking communication](/Images/Communication_1.PNG)
 
-![Image of evidence of lacking communication](/Images/Communication_2.PNG)
+Also I did not communicate through a github with other members because we communicated face-to-face. It was unprofessional. I did not know the importance of communication through professional window, and so other members and I showed each other’s progress and closed the issue that each other finished.
+
+Image below shows a big improvement after I tried to communicate with other members in more professional manner.
+![Image of evidence of improved communication](/Images/Communication_2.PNG)
+
+It was huge mistake as a lot of works during that time, Sprint 1 and 2, were not reviewed thoroughly to other members as well as to customer, and therefore most of the works were thrown away or need to be done again. We did not pursue the agile principle way. 
+
+This also caused another problem and it was inconsistency between code writers. For instance, I could not read and understand other member’s code straight away because I assumed they will write codes like I do, and just checked the appearance of result rather than codes itself.
+
+However, I gradually learned the importance of professional communication through those mistakes. I tried to use github more usefully, as it suggested, and tried to communicate with other members, focused on project work only
+
+![Image of evidence of improved communication 2](/Images/Communication_3.PNG)
+![Image of evidence of improved communication 3](/Images/Communication_4.PNG)
