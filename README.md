@@ -35,4 +35,4 @@ These images are evidences that shows my effort to make a healthy communication 
 * * *
 This simple change made my working pace faster because it smoothed the working flow between group members. The project sufficiently improved my ability to communicate with other people and be professional about work.
 
-[Next](/Pages/test.html)
+[Next](/Pages/index.html)
