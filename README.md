@@ -65,6 +65,7 @@ From that experience, I learned that as a team member, I need to help other memb
 I presents small portion of group chat from facebook chat dedicated to IN602.
 
 ![Image of evidence of teamwork 1](/Images/Teamwork_1.PNG){:height="80%" width="80%" .center-image }
+
 ![Image of evidence of teamwork 1](/Images/Teamwork_2.PNG){:height="80%" width="80%" .center-image }
 
 Other member may felt same way because from Sprint 5, everyone worked on their issue and helping other members through improved communication which results in finishing Sprint 5 and 6 successfully, finishing on time.
@@ -81,4 +82,17 @@ I learned that finishing the works on time is not important, in terms of time ma
 These images as well as images for communication shows my improvement on time managing.
 
 ![Image of evidence of time management 1](/Images/TimeManagement_1.PNG){:height="80%" width="80%" .center-image }
-![Image of evidence of time management 1](/Images/TimeManagement_2.PNG){:height="80%" width="80%" .center-image }
+
+![Image of evidence of time management 2](/Images/TimeManagement_2.PNG){:height="80%" width="80%" .center-image }
+* * *
+### Motivating self and others
+Throughout the project, I tried to provide the motivation to other group members, as they ask my opinion, like “Everything is okay” or “Nothing to worry about it”. It was just words that I generally says when I am trying to make the problem less stressful.
+
+It turned out not efficient since it lowered tension of the workflow. As I showed my confidence on something that I did not know and care much about it seems made other members to lose their focus. It also lowered my motivation as well because I was not telling the truth. I falsely made all the hard obstacles to low obstacle and postponed it to later.
+
+What I learned about this experience is that motivating others is not all about cheering them up and treat the problem as if it is nothing. Assume the obstacle harder is not good but other way around was not good either.
+
+I learned that to motivate others in right way, the balance between those two factors above is the most important. I failed to motivate myself and others during most of the time in this project but near the end, every member motivated each other well enough to finish the basic functions for whole project in short amount of time.
+
+![Image of evidence of Motivation_1](/Images/Motivation_1.PNG){:height="80%" width="80%" .center-image }
+
