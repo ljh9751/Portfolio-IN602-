@@ -116,18 +116,18 @@ I googled about Laravel to add edit action button to my working page, addPerson.
 
 I tweaked the codes a bit to make the edit button. Also I made the edit button working by adding controller and edit form page. After I successfully created edit button, it was used as a template to other pages’ edit buttons which made all the works easier.
 
-![Image of evidence of technical 3](/Images/Technical_3.PNG){:height="80%" width="80%" .center-image }
+![Image of evidence of technical 3](/Images/Technical_3.PNG){:height="80%" width="100%" .center-image }
 
-![Image of evidence of technical 4](/Images/Technical_4.PNG){:height="80%" width="80%" .center-image }
+![Image of evidence of technical 4](/Images/Technical_4.PNG){:height="80%" width="100%" .center-image }
 
-![Image of evidence of technical 5](/Images/Technical_5.PNG){:height="80%" width="80%" .center-image }
+![Image of evidence of technical 5](/Images/Technical_5.PNG){:height="80%" width="100%" .center-image }
 
-![Image of evidence of technical 6](/Images/Technical_6.PNG){:height="80%" width="80%" .center-image }
+![Image of evidence of technical 6](/Images/Technical_6.PNG){:height="80%" width="100%" .center-image }
 
-![Image of evidence of technical 7](/Images/Technical_7.PNG){:height="80%" width="80%" .center-image }
+![Image of evidence of technical 7](/Images/Technical_7.PNG){:height="80%" width="100%" .center-image }
 
-![Image of evidence of technical 8](/Images/Technical_8.PNG){:height="80%" width="80%" .center-image }
+![Image of evidence of technical 8](/Images/Technical_8.PNG){:height="80%" width="100%" .center-image }
 
 I also used some JavaScript to make a semester table contents that would show on the front page. It was not easy to understand the concept of it but I read about it on google and tried to applying it to my work and it worked fine as well. I also added small Javascript to identify current week and it worked well too.
 
-![Image of evidence of technical 9](/Images/Technical_1.PNG){:height="80%" width="80%" .center-image }
+![Image of evidence of technical 9](/Images/Technical_9.PNG){:height="80%" width="80%" .center-image }
