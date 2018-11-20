@@ -13,13 +13,13 @@ I am the one of the member who struggled with heavy workload therefore I have to
 * * *
 Image below shows that strugling before I acknowledge the importance of communication, by delayed works.
 
-![Image of evidence of lacking communication](/Images/Communication_1.PNG){:height="80%" width="80%" }
+![Image of evidence of lacking communication](/Images/Communication_1.PNG){:height="80%" width="80%" .center-image }
 * * *
 Also I did not communicate through a github with other members because we communicated face-to-face. It was unprofessional. I did not know the importance of communication through professional window, and so other members and I showed each other’s progress and closed the issue that each other finished.
 * * *
 Image below shows a big improvement after I tried to communicate with other members in more professional manner.
 
-![Image of evidence of improved communication](/Images/Communication_2.PNG){:height="80%" width="80%" }
+![Image of evidence of improved communication](/Images/Communication_2.PNG){:height="80%" width="80%" .center-image }
 * * *
 It was huge mistake as a lot of works during that time, Sprint 1 and 2, were not reviewed thoroughly to other members as well as to customer, and therefore most of the works were thrown away or need to be done again. We did not pursue the agile principle way. 
 
@@ -29,9 +29,9 @@ However, I gradually learned the importance of professional communication throug
 * * *
 These images are evidences that shows my effort to make a healthy communication through github and facebook chat, outside of class.
 
-![Image of evidence of improved communication 2](/Images/Communication_3.PNG){:height="80%" width="80%" }
+![Image of evidence of improved communication 2](/Images/Communication_3.PNG){:height="80%" width="80%" .center-image }
 
-![Image of evidence of improved communication 3](/Images/Communication_4.PNG){:height="80%" width="80%" }
+![Image of evidence of improved communication 3](/Images/Communication_4.PNG){:height="80%" width="80%" .center-image }
 * * *
 This simple change made my working pace faster because it smoothed the working flow between group members. The project sufficiently improved my ability to communicate with other people and be professional about work.
 * * *
@@ -47,6 +47,6 @@ As an old member of the group, members tried to ask my opinion all the matters a
 
 The aftereffect of absent of leadership gradually slowed my group down and I realised that someone should be a leader, to motivate other members as well as get the works done. After failure to finish Sprint 1, 2 and 3, all the members felt the need of work more efficiently, I tried to lead other members. It was not easy and I could not lead members like I thought I imagined, but tried to lead other members.
 
-![Image of evidence of leadership 1](/Images/Leadership_1.PNG){:height="80%" width="80%" }
+![Image of evidence of leadership 1](/Images/Leadership_1.PNG){:height="80%" width="80%" .center-image }
 
-![Image of evidence of leadership 2](/Images/Leadership_2.PNG){:height="80%" width="80%" }
+![Image of evidence of leadership 2](/Images/Leadership_2.PNG){:height="80%" width="80%" .center-image }
