@@ -9,31 +9,5 @@ I realised that it was not efficient communication through Sprint 2 and 3 becaus
 
 I am the one of the member who struggled with heavy workload therefore I have to admit that I slacked a bit during Sprint 1 and 2. I tried to finish mine in time and nearly finished, but still not enough to say I completed the tasks.
 
-![Image of evidence of lacking communication](https://octodex.github.com/images/yaktocat.png)
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ljh9751/Portfolio-IN602-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image of evidence of lacking communication](/Images/Communication_1.PNG)]
+![Image of evidence of lacking communication](/Images/Communication_2.PNG)]
