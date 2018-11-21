@@ -131,3 +131,34 @@ I tweaked the codes a bit to make the edit button. Also I made the edit button w
 I also used some JavaScript to make a semester table contents that would show on the front page. It was not easy to understand the concept of it but I read about it on google and tried to applying it to my work and it worked fine as well. I also added small Javascript to identify current week and it worked well too.
 
 ![Image of evidence of technical 9](/Images/Technical_9.PNG){:height="80%" width="80%" .center-image }
+* * *
+
+### CV
+Joon ho Lee
+
+@@ Campbells Road
+Pine Hill, Dunedin
+Mobile: (022) 344 @@@@
+Email: leejh2@student.op.ac.nz
+
+## Summary of Skills and Attributes
+
+# Electronics and technology
+*	Good coding skills represented by various programs built during tertiary study
+*	Good adaptation skill for latest technology.
+
+# Work Ethic
+*	Strong level of responsibility and professional ethic on works.
+
+## Education and qualifications
+Certificate in Information Technology Level 3, Otago Polytechnic, 2016
+*	Relevant paper include: Developing Professional Skills for IT, Utilising Software Applications, Exploring Graphics and Multimedia and Developing Computer Applications
+
+Certificate in Information Technology Level 4, Otago Polytechnic, 2016
+*	Relevant paper include: Software Packages, IT Professional Skills, Computer Essentials and Programming Fundamentals
+
+Bachelor of Information Technology Year 1, Otago Polytechnic, 2017
+*	Relevant paper include: Professional Practice for Information Technology, Introduction to Systems Analysis. Programming 1, Programming 2, Maths For IT, Web 1 – Technology and Development, Introduction to Networks and PC Maintenance.
+
+Bachelor of Information Technology Year 2, Otago Polytechnic, 2018 
+*	Relevant paper include: Quality Assurance and Software Testing, Security, Programming 3, Databases 2, Software Engineering, Web 2 – Programming, Linux Operating Systems and Programming 4: Intermediate Architectures and Algorithms.
