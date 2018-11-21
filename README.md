@@ -137,8 +137,11 @@ I also used some JavaScript to make a semester table contents that would show on
 Joon ho Lee
 
 @@ Campbells Road
+
 Pine Hill, Dunedin
+
 Mobile: (022) 344 @@@@
+
 Email: leejh2@student.op.ac.nz
 
 ## Summary of Skills and Attributes
